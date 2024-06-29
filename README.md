@@ -37,7 +37,7 @@ Install the dependencies:
 npm install
 ```
 
-Create a .env file in the root directory of the project and add the following environment variables:
+Create a .env file in the root directory of the server project and add the following environment variables:
 
 .env file
 
